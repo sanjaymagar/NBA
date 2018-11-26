@@ -1,0 +1,19 @@
+.TeamInfo {
+	font-size: 10px;
+}
+
+.TeamInfo i {
+	margin-right: 5px;
+}
+
+
+.TeamName {
+	margin-right: 7px;
+	background: #d1d1d1;
+	color: #fff;
+	padding: 2px 5px;
+}
+
+.date {
+	color: #2196f3;
+}
